@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vickymoditech" alt="vickymoditech" /></a> </p>
 
-- 💬 Ask me about **Node,React,AWS,Database(NoSql,Sql),Java,Python,AI**
+- 💬 Ask me about **Node, Nest, React, Next, AWS, Database, Java, Python, AI**
 
 - 📫 How to reach me **vickymoditech@gmail.com**
 
